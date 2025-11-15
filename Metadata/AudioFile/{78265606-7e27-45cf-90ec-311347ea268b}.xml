@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{78265606-7e27-45cf-90ec-311347ea268b}">
+		<property name="assetPath">
+			<value>TypeWriter/bellPlusCarriage.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e282e7d0-8d2a-430a-88d7-2396b600cf0a}</destination>
+		</relationship>
+	</object>
+</objects>
